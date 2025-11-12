@@ -2,6 +2,8 @@
 
 https://github.com/user-attachments/assets/c70ce845-07a3-422f-87ce-81f5e7d24dff
 
+# i was not able to rec any audio due to no mic 
+
 Mobile App Scripting – Final Portfolio of Evidence (MAST5112)
 
  Overview
